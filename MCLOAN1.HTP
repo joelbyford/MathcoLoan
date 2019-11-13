@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=refer content="LoanHelp.htc">
+</HEAD>
+<BODY>
+
+<H5>Loan Terminology & Input</H5>
+<p>The loan information screen provides the user a place to enter information surrounding the loan.  Three of the four variables must be completed.  The fourth may be calculated by selecting the radio button to the left of the field.  Selecting either the <u>Calculate</u> or <u>Schedule</u> button will present the fourth value.  To switch to the amortization schedule page, select the <u>Schedule</u> button.</p>
+<p>The following fields are used on this screen</p>
+<ul>
+	<li><u>Amount</u> - The amount field refers to the original loan amount or present value of the annuity.</li>
+	<li><u>APR</u> - APR stands for the Annual Percentage Rate.</li>
+	<li><u>Months</u> - The months field contains the loan period in months.</li>
+	<li><u>Payment</u> - The payment field lists the monthly payment owed over the life of the loan.</li>
+</ul>
+</BODY>
+</HTML>

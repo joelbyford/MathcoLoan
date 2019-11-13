@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=refer content="LoanHelp.htc">
+</HEAD>
+<BODY>
+
+<H5>Amortization Schedule</H5>
+<p>The amortization schedule screen lists the Interest, Principle and remaining Balance for each period of the loan.  The default view lists each and every month.  Individuals wishing to only see an annual subtotal may do so by selecting the <b>Annual</b> radio button.  The grand total of all payments and interest accrued during the loan period is listed at the bottom right of the screen.</p>
+</BODY>
+</HTML>

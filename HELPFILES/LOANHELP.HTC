@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=refer content="">
+</HEAD>
+<BODY>
+
+<H5>MathcoLoan Help</H5>
+<MENU>
+<li><a href ="file:MCLoan1.htp">Loan Terminology & Input</a>
+<li><a href ="file:MCLoan2.htp">Amortization Schedule</a>
+<li><a href ="file:MCLoan3.htp">Product Registration</a>
+</MENU>
+
+</BODY>
+</HTML>
